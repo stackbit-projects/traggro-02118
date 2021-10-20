@@ -38,11 +38,8 @@ sections:
       delivers solutions to satisfy their needs.
     image: images/promo.jpg
     background_image: images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
+  
+   
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
