@@ -47,7 +47,7 @@
   }
 
   &__subtitle {
-    font-size: $font_size_small/2;
+    font-size:14px;
     margin-top: $spacing--unit*3;
     margin-bottom: $spacing--unit*6;
     @include smaller-than-tablet {
