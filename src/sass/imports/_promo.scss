@@ -48,6 +48,7 @@
 
   &__subtitle {
     font-size: 17px;
+    line-height: 1.4;
     margin-top: $spacing--unit*3;
     margin-bottom: $spacing--unit*6;
     @include smaller-than-tablet {
