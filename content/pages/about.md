@@ -17,7 +17,7 @@ sections:
           consumer purposes.
 
         image: images/nan_talk.jpg
-      - description: "Our long time expertise and experience servicing the domestic market have helped us establish deep roots in the market of India. Rest assured that we can help you bring the best deals for your organization. It’s proven by our satisfied clients.\_\n\nOur services will help you expand your business coverage and compete with different international sellers. \n"
+      - description: "Our long time expertise and experience servicing the domestic market have helped us establish deep roots in the market of India. Rest assured that we can help you bring the best deals for your organization. It’s proven by our satisfied clients.\_\n\n\n\nOur services will help you expand your business coverage and compete with different international sellers.\n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
