@@ -30,7 +30,12 @@ sections:
       - content/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    subtitle: from $149.99
+    subtitle: >-
+      TRAGGRO company never underestimates the importance of the product's
+      quality. We offer a great variety of farm protection and associated
+      products in India. All of them are of great quality coupled with
+      affordable prices. TRAGGRO is committed to the farmers' community and
+      delivers solutions to satisfy their needs.
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
