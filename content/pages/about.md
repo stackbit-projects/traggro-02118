@@ -18,12 +18,11 @@ sections:
 
         image: images/nan_talk.jpg
       - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >+
+          We also buy harvests grown by farmers and gardeners so they can profit
+          from their work. If need be, our specialists provide crop consultancy
+          and other kinds of assistance for retailers. 
+
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
