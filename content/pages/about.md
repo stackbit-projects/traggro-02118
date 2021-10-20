@@ -10,8 +10,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
-        description: >+
+      - description: >+
           TRAGGRO is a well-established and reliable agro trading company with
           offices in India. We sell various agro products like food, vegetables,
           herbs, fruits, flowers and other organic products for industrial and
