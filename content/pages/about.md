@@ -17,8 +17,7 @@ sections:
           consumer purposes.
 
         image: images/nan_talk.jpg
-      - title: We think plants are the future
-        description: >+
+      - description: >+
           We also buy harvests grown by farmers and gardeners so they can profit
           from their work. If need be, our specialists provide crop consultancy
           and other kinds of assistance for retailers. 
