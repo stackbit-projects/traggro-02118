@@ -17,11 +17,7 @@ sections:
           consumer purposes.
 
         image: images/nan_talk.jpg
-      - description: >+
-          We also buy harvests grown by farmers and gardeners so they can profit
-          from their work. If need be, our specialists provide crop consultancy
-          and other kinds of assistance for retailers. 
-
+      - description: "Our long time expertise and experience servicing the domestic market have helped us establish deep roots in the market of India. Rest assured that we can help you bring the best deals for your organization. It’s proven by our satisfied clients.\_\n\nOur services will help you expand your business coverage and compete with different international sellers. \n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
