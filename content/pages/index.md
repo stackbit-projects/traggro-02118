@@ -7,13 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >+
-      # TRAGGRO believes that agriculture is the daily bread in India. 
+    content: >
+      # Agriculture is the daily bread in India.
 
 
       Hence, it is essential to give farmers a helping hand by providing
-      agricultural inputs and services. 
-
+      agricultural inputs and services.
     actions:
       - title: See all items
         url: /store
